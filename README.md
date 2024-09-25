@@ -2,7 +2,7 @@
 
 This project is designed to create a knowledge graph. They seem to be everywhere, so in order to speak confidently about them I would like to build one.
 
-![alt text](./images/KG_Churchill.png)
+![alt text](./images/KG_Churchill.PNG)
 
 ### How Knowledge Graphs Work
 
